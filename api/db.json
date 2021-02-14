@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Merve Karabaloğlu",
+      "salary": "3000",
+      "department": "Bilişim"
+    },
+    {
+      "id": "2",
+      "name": "Hüseyin Karabaloğlu",
+      "salary": "4000",
+      "department": "Makine"
+    },
+    {
+      "name": "BERKECAN TÜTÜNCÜ",
+      "salary": "5000",
+      "department": "Odyometri",
+      "id": "4i3RMPg"
+    },
+    {
+      "name": "Metin Tütüncü",
+      "salary": "65005",
+      "department": "Mühendis",
+      "id": "sMPH4Qz"
+    },
+    {
+      "name": "eqw",
+      "salary": "qwe",
+      "department": "qwe",
+      "id": "xoz9kM5"
+    }
+  ]
+}
